@@ -1,1 +1,3 @@
-# SNIBCPS
+# SNIBCPS sub_syndromes pipeline
+
+
